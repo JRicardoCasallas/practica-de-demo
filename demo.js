@@ -13,10 +13,11 @@ var nulo = null
 var indefinido = undefined
 
 
-console.log("hola mundo!")
-console.log(stringVarible1, stringVarible2, numberVariable3)
-console.log(numberVariable1)
-console.log("4444")
-console.log(booleanf)
-console.log(nulo)
-console.log(indefinido)
+// console.log("hola mundo!")
+// console.log(stringVarible1, stringVarible2, numberVariable3)
+// console.log(numberVariable1)
+// console.log("4444")
+// console.log(booleanf)
+// console.log(nulo)
+// console.log(indefinido)
+console.log(typeof indefinido)
